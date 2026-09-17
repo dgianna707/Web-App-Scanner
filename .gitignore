@@ -15,3 +15,6 @@ reports/*.md
 
 # OS files
 .DS_Store
+
+# Claude 
+.claude/
